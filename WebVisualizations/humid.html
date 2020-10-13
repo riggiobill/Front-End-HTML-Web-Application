@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latitude vs. Humidity</title>
+    <title>Latitude vs. Temperature</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -44,7 +44,43 @@
             </div>
         </div>
     </nav>
-    <p>
-    humid</p>
+
+    <div class="container content">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="col-md-12">
+                    <h3>Latitude vs. Humidity</h3>
+                    <hr>
+                    <img src="Resources/assets/images/Fig2.png" width="100%" alt="humidity">
+                    <br>
+                    <p>Test text for information about the above graph</p>
+                </div>
+            </div>
+            <!--visualizations container -->
+            <div class="col-md-4">
+                <div class="col-md-12">
+                    <h3>Plots / Graphs</h3>
+                    <hr>
+                    <div class="row">
+                        <div class="col-3 col-md-6">
+                            <a href="temp.html"><img class="img-thumbnail" src="Resources/assets/images/Fig1.png" width="100%" alt="temperature"></a>
+                        </div>
+                        
+                        <div class="col-3 col-md-6">
+                            <a href="humid.html"><img class="highlight" src="Resources/assets/images/Fig2.png" width="100%" alt="humidity"></a>
+                        </div>
+                    
+                        <div class="col-3 col-md-6">
+                            <a href="cloud.html"><img class="img-thumbnail" src="Resources/assets/images/Fig3.png" width="100%" alt="cloudiness"></a>
+                        </div>
+                        
+                        <div class="col-3 col-md-6">
+                            <a href="windspeed.html"><img class="img-thumbnail" src="Resources/assets/images/Fig4.png" width="100%" alt="windspeed"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </div>    
+    </div>
 </body>
 </html>
