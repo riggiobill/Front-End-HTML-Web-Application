@@ -20,14 +20,14 @@ h3{
 
 
 
-/* fontstyling for text*/
+
 p{
  color:white;
  font-size: large;
  padding:10px;
 }
 
-/* body background*/
+
 body{
   background-color: rgb(44, 46, 46);
 }
@@ -37,11 +37,11 @@ body{
   padding-bottom:40px;
 }
 
-/* image border styling*/
+
 .highlight{
   border: 3px solid rgb(188, 233, 85);
 }
-/* navbar styling*/
+
 .navbar{
   padding-top:0px;
   padding-bottom: 0px;
@@ -57,7 +57,7 @@ body{
   margin: 0;
 }
 
-/* content styling*/
+
 .content {
   padding-top: 50px;
   padding-bottom: 80px;
@@ -68,27 +68,6 @@ body{
   margin-top: 15px;
 }
 
-
-/* table text adjustments*/
-tr>th:nth-child(1),
-tr>th:nth-child(3),
-tr>th:nth-child(6),
-tr>th:nth-child(7),
-tr>th:nth-child(8),
-tr>th:nth-child(9),
-tr>th:nth-child(10),
-tr>td:nth-child(1),
-tr>td:nth-child(3),
-tr>td:nth-child(6),
-tr>td:nth-child(7),
-tr>td:nth-child(8),
-tr>td:nth-child(9),
-tr>td:nth-child(10) {
-  text-align: right;
-}
-
-
-/* small screen adjustments*/
 @media(max-width:767px){
   .navbar.bg-dark{
       background-color: rgb(44, 46, 46)!important;    
