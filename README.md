@@ -1,3 +1,11 @@
+![alt text](https://github.com/riggiobill/Web-Design-Challenge/blob/main/Screenshots/Web-Design-Screenshot-1.png?raw=true)
+![alt text](https://github.com/riggiobill/Web-Design-Challenge/blob/main/Screenshots/Web-Design-Screenshot-2.png?raw=true)
+![alt text](https://github.com/riggiobill/Web-Design-Challenge/blob/main/Screenshots/Web-Design-Screenshot-3.png?raw=true)
+![alt text](https://github.com/riggiobill/Web-Design-Challenge/blob/main/Screenshots/Web-Design-Screenshot-4.png?raw=true)
+![alt text](https://github.com/riggiobill/Web-Design-Challenge/blob/main/Screenshots/Web-Design-Screenshot-5.png?raw=true)
+
+
+
 
 Web Design Homework - Web Visualization Dashboard (Latitude)
 Background
